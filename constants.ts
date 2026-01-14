@@ -5,25 +5,25 @@ export const LEFT_LINKS: LinkItem[] = [
   {
     title: "Indian Army",
     url: "https://indianarmy.nic.in",
-    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/3/33/Indian_Army_emblem.svg",
+    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Indian_Army.svg/330px-Flag_of_Indian_Army.svg.png",
     altText: "Emblem of the Indian Army"
   },
   {
     title: "Indian Navy",
-    url: "https://indiannavy.nic.in",
-    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/6/69/Indian_Navy_Crest.svg",
+    url: "https://indiannavy.gov.in/",
+    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Naval_Ensign_of_India.svg/330px-Naval_Ensign_of_India.svg.png",
     altText: "Crest of the Indian Navy"
   },
   {
     title: "Indian Air Force",
     url: "https://indianairforce.nic.in",
-    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Indian_Air_Force_Logo_%282%29.svg",
+    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Air_Force_Ensign_of_India.svg/330px-Air_Force_Ensign_of_India.svg.png",
     altText: "Logo of the Indian Air Force"
   },
   {
     title: "Indian Coast Guard",
     url: "https://indiancoastguard.gov.in",
-    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/4/48/Indian_Coast_Guard_logo.svg",
+    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Indian_Coast_Guard_flag.svg/330px-Indian_Coast_Guard_flag.svg.png",
     altText: "Logo of the Indian Coast Guard"
   }
 ];
@@ -31,7 +31,7 @@ export const LEFT_LINKS: LinkItem[] = [
 export const RIGHT_LINKS: LinkItem[] = [
   {
     title: "Rashtrapati Bhavan",
-    url: "https://rashtrapatisachivalaya.gov.in",
+    url: "https://www.rashtrapatibhavan.gov.in/",
     logoUrl: "https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg", // National Emblem
     altText: "National Emblem of India"
   },
@@ -44,13 +44,13 @@ export const RIGHT_LINKS: LinkItem[] = [
   {
     title: "Chief of Defence Staff",
     url: "https://www.mod.gov.in",
-    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/0/07/IDS_Emblem.svg", // Integrated Defence Staff Emblem
+    logoUrl: "https://en.wikipedia.org/wiki/File:Flag_of_Chief_of_Defence_Staff_(India).svg", // Integrated Defence Staff Emblem
     altText: "Emblem of the Integrated Defence Staff"
   },
   {
     title: "Gallantry Awards",
     url: "https://gallantryawards.gov.in",
-    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Param_Vir_Chakra_medal.svg", // Param Vir Chakra
+    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Flag_of_Indian_Armed_Forces.svg/330px-Flag_of_Indian_Armed_Forces.svg.png", // Param Vir Chakra
     altText: "Param Vir Chakra Medal"
   }
 ];
