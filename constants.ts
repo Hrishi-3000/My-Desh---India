@@ -44,7 +44,7 @@ export const RIGHT_LINKS: LinkItem[] = [
   {
     title: "Chief of Defence Staff",
     url: "https://www.mod.gov.in",
-    logoUrl: "https://en.wikipedia.org/wiki/File:Flag_of_Chief_of_Defence_Staff_(India).svg", // Integrated Defence Staff Emblem
+    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Flag_of_Chief_of_Defence_Staff_%28India%29.svg/330px-Flag_of_Chief_of_Defence_Staff_%28India%29.svg.png", // Integrated Defence Staff Emblem
     altText: "Emblem of the Integrated Defence Staff"
   },
   {
